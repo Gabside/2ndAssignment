@@ -54,6 +54,8 @@ li {
     /*padding-bottom: 4%; */
     margin: 0 auto;
     border-bottom: 0.2rem solid white;
+     /*border-bottom: 0.2rem solid white;*/
+    text-decoration: underline;
     
 }
 
